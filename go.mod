@@ -1,4 +1,4 @@
-module proto
+module github.com/Townsii/proto
 
 go 1.16
 
